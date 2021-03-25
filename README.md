@@ -2,8 +2,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwnes)](https://github.com/anuraghazra/github-readme-stats)
 
-^_^
-
 #### AutoSyncScript
 ```
 此项目用于定时拉取github上各作者的脚本备份。
